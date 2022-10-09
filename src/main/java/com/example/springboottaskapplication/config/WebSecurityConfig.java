@@ -25,7 +25,7 @@ public class WebSecurityConfig {
                 .and()
                 .authorizeRequests()
                 .antMatchers("/").permitAll()
-                .antMatchers("/api/v1/tasks/*").permitAll();
+                .antMatchers("/api/v1/tasks/**").permitAll();
 
         return http.build();
     }
