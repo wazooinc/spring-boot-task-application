@@ -15,7 +15,7 @@ public class SeedDataLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        loadSeedData();
+        // loadSeedData();
     }
 
     private void loadSeedData() {
