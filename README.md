@@ -2,11 +2,11 @@
 
 This is an ENTIRE application for Java Spring Boot built using:
 
-Spring Data JPA
-H2 Database
-Spring Security
-React
-Javacord
+- Spring Data JPA
+- H2 Database
+- Spring Security
+- React
+- Javacord
 
 I walk through how to build this yourself on YouTube: 
 
