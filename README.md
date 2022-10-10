@@ -7,6 +7,8 @@ This is an ENTIRE application for Java Spring Boot built using:
 - Spring Security
 - React
 - Javacord
+- .env files
+- Using Maven to Package React App Into Server
 
 I walk through how to build this yourself on YouTube: https://youtu.be/A7WabeiozY8
 
