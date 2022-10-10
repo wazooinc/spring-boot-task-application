@@ -8,7 +8,7 @@ This is an ENTIRE application for Java Spring Boot built using:
 - React
 - Javacord
 
-I walk through how to build this yourself on YouTube: 
+I walk through how to build this yourself on YouTube: https://youtu.be/A7WabeiozY8
 
 ## Development Instructions
 - `git clone https://github.com/wazooinc/spring-boot-task-application.git`
